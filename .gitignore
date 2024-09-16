@@ -3,8 +3,8 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
-./appsettings.json
-./appsettings.Development.json
+/appsettings.json
+/appsettings.Development.json
 ./vs
 
 

@@ -25,7 +25,13 @@ public class VUTTRDbContext : DbContext
             .Property(x => x.Id)
             .ValueGeneratedOnAdd();
 
-        modelBuilder.Entity<Tool>();
-        modelBuilder.Entity<Tag>(); 
+        modelBuilder.Entity<Tool>()
+            .Property(x => x.Id)
+            .ValueGeneratedOnAdd();
+
+        modelBuilder.Entity<Tag>()
+            .Property(x => x.Id)
+            .ValueGeneratedOnAdd();
+         
     }
 }
