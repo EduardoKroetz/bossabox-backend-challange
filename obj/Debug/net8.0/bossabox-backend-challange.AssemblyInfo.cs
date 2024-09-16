@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bossabox-backend-challange")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2f87e67d132ddcc47d8eff654ba6d6f91a1073a")]
 [assembly: System.Reflection.AssemblyProductAttribute("bossabox-backend-challange")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bossabox-backend-challange")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
